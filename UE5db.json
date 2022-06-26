@@ -1,0 +1,12 @@
+{
+  "UserInfo": [
+    {
+      "UserId": "0",
+      "Firstname": "Marco",
+      "Surname": "Niebuhr",
+      "PlayerDesc": "Likes to play video games",
+      "MaxGold": "532",
+      "Team": "red"
+    }
+  ]
+}
